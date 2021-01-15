@@ -14,7 +14,7 @@ let package = Package(
 		.binaryTarget(
 			name: "PlatformSDK",
 			url: "https://www.dl.dropboxusercontent.com/s/couheeylo8us42k/PlatformSDK.zip",
-			checksum: "c14967915f9cdef4b38e98141a0545c24148f8fbe9cd34f2e9be2f11487785dc"
+			checksum: "5f835425d1c2ac932550a89ae6d6df48d95399f6eec3d5bc99cbcf4bc5400df1"
 		)
     ]
 )
