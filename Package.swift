@@ -13,8 +13,8 @@ let package = Package(
     targets: [
 		.binaryTarget(
 			name: "PlatformSDK",
-			url: "https://maven.2gis.dev/ios-frameworks/feature-SDK-382-ios-marker-builder/Release/PlatformSDK.xcframework.zip",
-			checksum: "7f5c70ab95b24dff0c71c528438edb4a59ab6b89ed1720282721accef3bffb33"
+			url: "https://maven.2gis.dev/ios-frameworks/feature-SDK-387-map-control/Release/PlatformSDK.xcframework.zip",
+			checksum: "9b120c609bd07e6e3e6c7f51c24ef001140fde0141d2cdf16446e599e8438d3e"
 		)
     ]
 )
