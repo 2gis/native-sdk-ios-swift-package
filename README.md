@@ -1,8 +1,8 @@
 # PlatformSDK
 
-Native SDK for working with the map from the 2GIS.
+A native iOS SDK for working with the 2GIS map.
 
-## Installation
+## Usage
 
-To install the SDK, it is necessary to add this Swift Package to your project.
-About adding package dependencies you can read [here](https://developer.apple.com/documentation/swift_packages/adding_package_dependencies_to_your_app).
+In order to use the SDK, add a dependency to this Swift Package to your project.
+Read [this article](https://developer.apple.com/documentation/swift_packages/adding_package_dependencies_to_your_app) to learn how one can add a package dependency.
