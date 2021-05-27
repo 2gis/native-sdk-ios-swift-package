@@ -16,13 +16,13 @@ let package = Package(
     targets: [
 		.binaryTarget(
 			name: "PlatformSDK",
-			url: "https://maven.2gis.dev/sdk-ios-release/0.15.0/Release/PlatformSDK.xcframework.zip",
-			checksum: "a62b5ba8b01b431fc232ad68e74980cfdc63c6c752a479f33dca6a090b8cb4d7"
+			url: "https://maven.2gis.dev/sdk-ios-rc/sdk-release-v0.15.1/Release/full-RC-1622104156972.xcframework.zip",
+			checksum: "7a1bbf6931517e5a90706425e53e4f1090386eaf5d1d968867a5a2f42cad235a"
 		),
 		.binaryTarget(
 			name: "PlatformMapSDK",
-			url: "https://maven.2gis.dev/sdk-ios-release/0.15.0/Release/PlatformMapSDK.xcframework.zip",
-			checksum: "8e92d6a9b8d050c921fa2bd6b2612f2303efc15b9942c085957bb026c17bd7f3"
+			url: "https://maven.2gis.dev/sdk-ios-rc/sdk-release-v0.15.1/Release/map-RC-1622104156972.xcframework.zip",
+			checksum: "7274c81fd675de3ec5618f235560d7d926184f0b9bb5072edaf8198574cfc29f"
 		)
     ]
 )
