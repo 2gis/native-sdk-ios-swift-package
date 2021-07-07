@@ -1,3 +1,6 @@
+> :warning: &nbsp;**The repository is deprecated and will be removed soon**  
+> You should use [https://github.com/2gis/mobile-sdk-map-swift-package](https://github.com/2gis/mobile-sdk-map-swift-package) instead
+
 # PlatformSDK
 
 A native iOS SDK for working with the 2GIS map.
